@@ -1,0 +1,2 @@
+# Hotel-Average-score-prediction
+THIS IS A REGRESSION MODEL , WHICH PREDICTS THE HOTEL SCORE OUT OF 10 
